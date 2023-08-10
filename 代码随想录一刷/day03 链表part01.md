@@ -1,4 +1,12 @@
-#  day03 链表part01
+---
+title: Day03 链表 part01
+date: 2023-7-15
+tags:
+ - algorithms
+categories:
+ - Algorithms
+---
+#  Day03 链表part01
 
 ### 移除链表元素 leetcode 203
 

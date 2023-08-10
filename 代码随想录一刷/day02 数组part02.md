@@ -1,4 +1,12 @@
-#  day02 数组part02
+---
+title: Day02 数组 part02
+date: 2023-1-1
+tags:
+ - algorithms
+categories:
+ - Algorithms
+---
+#  day02 数组 part02
 
 ### 有序数组的平方 leetcode 977
 
